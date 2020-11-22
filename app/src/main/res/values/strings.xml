@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dialog2</string>
+    <string name="btnfon">Выбрать фон</string>
+    <string name="message">Хотите поменять фон?</string>
+    <color name="redColour">#FF0000</color>
+    <color name="yellowColour">#FFFF00</color>
+    <color name="greenColour">#00FF00</color>
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <string name="green">Зеленый</string>
+</resources>
